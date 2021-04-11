@@ -1,0 +1,120 @@
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.exe
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.deps.json
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.runtimeconfig.json
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.runtimeconfig.dev.json
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.dll
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.pdb
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.Views.dll
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.Views.pdb
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.csprojAssemblyReference.cache
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.AssemblyInfoInputs.cache
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.AssemblyInfo.cs
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.csproj.CoreCompileInputs.cache
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.RazorAssemblyInfo.cache
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.RazorAssemblyInfo.cs
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\staticwebassets\PACAPP.StaticWebAssets.Manifest.cache
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\staticwebassets\PACAPP.StaticWebAssets.xml
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\scopedcss\bundle\PACAPP.styles.css
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.TagHelpers.input.cache
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.TagHelpers.output.cache
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.RazorCoreGenerate.cache
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.RazorTargetAssemblyInfo.cache
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.RazorTargetAssemblyInfo.cs
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.Views.pdb
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.dll
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.pdb
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.genruntimeconfig.cache
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.csproj.CopyComplete
+C:\Users\tiann\source\repos\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\UserLoginForm.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.exe
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.deps.json
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.runtimeconfig.json
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.runtimeconfig.dev.json
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.dll
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.pdb
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.Views.dll
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.Views.pdb
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.csprojAssemblyReference.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.AssemblyInfoInputs.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.AssemblyInfo.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.csproj.CoreCompileInputs.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.RazorAssemblyInfo.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.RazorAssemblyInfo.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\staticwebassets\PACAPP.StaticWebAssets.Manifest.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\staticwebassets\PACAPP.StaticWebAssets.xml
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\scopedcss\bundle\PACAPP.styles.css
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.TagHelpers.input.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.TagHelpers.output.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.RazorCoreGenerate.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.RazorTargetAssemblyInfo.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.RazorTargetAssemblyInfo.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.Views.pdb
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.dll
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.pdb
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.genruntimeconfig.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.csproj.CopyComplete
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\User\User.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\User\UserDetails.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\User\Add.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.exe
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.deps.json
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.runtimeconfig.json
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.runtimeconfig.dev.json
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.dll
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.pdb
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.Views.dll
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\bin\Debug\netcoreapp3.1\PACAPP.Views.pdb
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.csprojAssemblyReference.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.AssemblyInfoInputs.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.AssemblyInfo.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.csproj.CoreCompileInputs.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.RazorAssemblyInfo.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.RazorAssemblyInfo.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\staticwebassets\PACAPP.StaticWebAssets.Manifest.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\staticwebassets\PACAPP.StaticWebAssets.xml
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\scopedcss\bundle\PACAPP.styles.css
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.TagHelpers.input.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.TagHelpers.output.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.RazorCoreGenerate.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\User\Add.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\User\User.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\User\UserDetails.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.RazorTargetAssemblyInfo.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.RazorTargetAssemblyInfo.cs
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.Views.pdb
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.dll
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.pdb
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.genruntimeconfig.cache
+C:\Users\tiann\source\repos\422 Apps In Azure\422 Projects\PlanAheadCalendarApplication (2)\PlanAheadCalendarApplication\PlanAheadCalendarApplication\PACAPP\obj\Debug\netcoreapp3.1\PACAPP.csproj.CopyComplete

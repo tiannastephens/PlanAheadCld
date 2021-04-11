@@ -1,0 +1,22 @@
+﻿@model User
+
+<h1>Edit User Info</h1>
+<form>
+
+    Id:
+    <input asp-for="Id">
+    <br />
+
+    UserName:
+    <input asp-for="UserName">
+    <br />
+
+    Password:
+    <input asp-for="Password">
+    <br />
+
+    <a asp-action="UserDetails" class="btn btn-sm btn-outline-success"> Update </a>
+
+    <!--NEEDS A BACK BUTTON-->
+
+</form>

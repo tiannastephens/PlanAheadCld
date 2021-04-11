@@ -1,0 +1,17 @@
+﻿@model PACAPP.Models.User
+ 
+
+<h1> Register New User </h1>
+
+  <form method="post">
+      <h4>UserName:</h4>
+      <input asp-for="UserName" />
+      <br />
+  
+      <h4>Password:</h4>
+      <input asp-for="Password"/>
+      <br />
+
+   <a asp-controller="User" asp-action="UserDetails" class="btn btn-sm btn-outline-success">Create Account</a>
+   <!--<input type="submit" value="Create Account" class="btn btn-sm btn-outline-success">-->
+  </form>
